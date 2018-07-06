@@ -46,6 +46,38 @@ disqusShortname = ""
     # Optional logo as brand stored in img/
     # logo = "logo.png"
 
+      [[params.navigation.links]]
+      name = "Home"
+      url = "/"
+
+    [[params.navigation.links]]
+      name = "About Us"
+      url = "/about"
+
+    [[params.navigation.links]]
+      name = ""
+      url = "blogs/ipsum"
+
+    [[params.navigation.links]]
+      name = "Elements"
+      url = "elements.html"
+
+    # Add custom links here by uncommenting code below. To remove links just delete
+    # the [[params.navigation.links]] map associated with that link. Copy and paste
+    # code below if you need more links. Buttons work in the same way.
+    # [[params.navigation.links]]
+    #    name = "NameOfLink"
+    #    url = "UrlOfLink"
+
+    # Button Style 1
+    [[params.navigation.button1]]
+      name = "Community & Support"
+      url = "http://discuss.youthsquad.network"
+
+    # Button Style 2
+    [[params.navigation.button2]]
+      name = "Featured Opportunities"
+      url = "categories/opportunities"
 
  
 
@@ -64,11 +96,31 @@ disqusShortname = ""
   [params.tiles]
     enable = true
     # Display your showcases here.
+
+    [[params.tiles.showcase]]
+      title = "The ChangeMakers"
+      subtitle = "Read inspiring stories of people beating the odds"
+      image = "changemaker.jpg"
+      url = "categories/get-inspired"
+
+
+    [[params.tiles.showcase]]
+      title = "Featured Opportunities"
+      subtitle = "Check out some hand-curated opportunities that can change your life "
+      image = "pic06.jpg"
+      url = "categories/opportunities"
+
+     [[params.tiles.showcase]]
+      title = "Personal Growth"
+      subtitle = "Articles and Advice on becoming a better you"
+      image = "pic01.jpg"
+      url = "categories/growth"
+
     
     [[params.tiles.showcase]]
       title = "Learn to Code"
       subtitle = "Featured articles on how to start your journey as a software developer"
-      image = "pic01.jpg"
+      image = "code.jpg"
       url = "categories/code"
 
     [[params.tiles.showcase]]
@@ -77,29 +129,15 @@ disqusShortname = ""
       image = "pic02.jpg"
       url = "categories/design"
 
-    [[params.tiles.showcase]]
-      title = "Featured Jobs"
-      subtitle = "Check out some jobs that can make a real impact on the world "
-      image = "pic03.jpg"
-      url = "blogs/impact"
 
-    [[params.tiles.showcase]]
-      title = "Personal Growth"
-      subtitle = "Articles and Advice on becoming a better you"
-      image = "pic04.jpg"
-      url = "blogs/growth"
-
+   
     [[params.tiles.showcase]]
       title = "Entrepreneurship"
       subtitle = "Featured articles on becoming a digital entreprenuer"
       image = "pic05.jpg"
       url = "blogs/Entrepreneurship"
 
-    [[params.tiles.showcase]]
-      title = "The ChangeMakers"
-      subtitle = "Read inspiring stories of people beating the odds"
-      image = "pic06.jpg"
-      url = "blogs/get-inspired"
+    
     # You can make more showcases by copy and pasting the code above
 
   [params.blog]
@@ -112,14 +150,10 @@ disqusShortname = ""
   # Section Type Two
   [params.two]
     enable = true
-    title = "Massa libero"
-    subtitle = """Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. 
-    Mauris aliquet magna magna sed nunc rhoncus pharetra. 
-    Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. 
-    Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero.
-    Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus."""
-    buttonText = "Get Started"
-    url = "blogs"
+    title = "Join Us"
+    subtitle = """YouthSquad is a network of people around the world with the Mission to empower the Youths around the world with knowledge, mentorship, training and job search assistance to live their life in the best possible way. """
+    buttonText = "Join our Mentor Network"
+    url = "/join-us"
 
 
   # Contact section
@@ -146,22 +180,22 @@ disqusShortname = ""
     # by copying the corresponding map with frontmatter code.
     [[params.contact.email]]
     title = "Email"
-    email = "example@domain.com"
+    email = "connect@youthsquad.network"
 
-    [[params.contact.phone]]
-    title = "Phone"
-    phone = "(000) 000-0000 x1234"
+    # [[params.contact.phone]]
+    # title = "Phone"
+    # phone = "+91-8800293563" 
 
     [[params.contact.address]]
-    title = "Address"
-    street = "Street"
-    city = "City, ST 00000"
-    country = "Country"
+    title = "C6/SDA MARKET"
+    street = "Hauz Khas"
+    city = "Delhi, 110016"
+    country = "India"
 
   # Footer section
   [params.footer]
     enable = true
-    copyright = "Company Name"
+    copyright = "YouthSquad Networks"
 
     # Uses font awesome icons
     [[params.footer.social]]
@@ -189,7 +223,4 @@ disqusShortname = ""
       url= "https://www.linkedin.com"
       label = "LinkedIn"
 
-    [[params.footer.quicklinks]]
-      text = "Design: "
-      url= "https://www.html5up.net"
-      alt = "HTML5 UP"
+    
