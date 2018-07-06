@@ -188,7 +188,7 @@ disqusShortname = ""
   # Footer section
   [params.footer]
     enable = true
-    copyright = "Ceekr"
+    copyright = "YouthSquad Network"
 
     # Uses font awesome icons
     [[params.footer.social]]
