@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Home for the 21st Century Youth</title>
+    <link>http://mdhalim.github.io/youthsquad/categories/</link>
+    <description>Recent content in Categories on Home for the 21st Century Youth</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Oct 2017 22:42:51 -0500</lastBuildDate>
+    
+	<atom:link href="http://mdhalim.github.io/youthsquad/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://mdhalim.github.io/youthsquad/categories/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>http://mdhalim.github.io/youthsquad/categories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Code</title>
+      <link>http://mdhalim.github.io/youthsquad/categories/code/</link>
+      <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
+      
+      <guid>http://mdhalim.github.io/youthsquad/categories/code/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
