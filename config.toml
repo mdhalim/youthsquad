@@ -1,5 +1,5 @@
 # Site settings
-baseURL = ""
+baseURL = "https://youthsquad.network"
 languageCode = "en-us"
 title = "Home for the 21st Century Youth"
 theme = "forty"
