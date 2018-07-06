@@ -23,7 +23,7 @@ disqusShortname = ""
 
   # Provide your metadata here.
   name = "YouthSquad Network"
-  description = "YouthSquad Network is a Facebook funded initiative to provide youths around the world in becoming the best version of themselves"
+  description = "YouthSquad is a network of youths around the world helping each other in changing themselves and the world one step at a time. Our goal is to build a universal network of mentors and mentees and to empower youths around the world with knowledge, resources and opportunities to make this world a more equitable place."
 
   # Link custom assets relative to /static
   custom_css = []

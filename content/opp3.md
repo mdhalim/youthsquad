@@ -1,6 +1,8 @@
 ---
 title: "Hundreds of Opportunities To Apply in 2018"
-description: "The Unilever Young Entrepreneurs Awards will recognise up to eight winners, including the HRH Prize Winner, in 2018. The eight winners will be selected from a rigorous assessment process led by The University of Cambridge Institute for Sustainability Leadership, culminating in video interviews with our finalist selection panels. All eight winners will be invited to an Accelerator Programme in Cambridge, before making their final pitches in person to a guest judging panel who will decide on the HRH Prize Winner of the 2018 competition."
+description: "We've noted down the best youth opportunities and challenges for June and July 2018. We've found some fabulous competitions, great events and chances to really make a difference. 
+** Check the eligibility requirements and deadlines to be sure to you have the
+best chance of winning!"
 image: june_opportunities.jpg
 slug: "apply-2018"
 keywords: ""
