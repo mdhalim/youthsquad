@@ -2,40 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Code on Home for the 21st Century Youth</title>
-    <link>http://mdhalim.github.io/youthsquad/categories/code/</link>
+    <link>https://youthsquad.network/categories/code/</link>
     <description>Recent content in Code on Home for the 21st Century Youth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Oct 2017 22:26:13 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 31 Oct 2017 21:28:43 -0500</lastBuildDate>
     
-	<atom:link href="http://mdhalim.github.io/youthsquad/categories/code/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://youthsquad.network/categories/code/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Tempus</title>
-      <link>http://mdhalim.github.io/youthsquad/tempus/</link>
-      <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
-      
-      <guid>http://mdhalim.github.io/youthsquad/tempus/</guid>
-      <description></description>
-    </item>
     
     <item>
-      <title>Magna</title>
-      <link>http://mdhalim.github.io/youthsquad/magna/</link>
-      <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
-      
-      <guid>http://mdhalim.github.io/youthsquad/magna/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ipsum</title>
-      <link>http://mdhalim.github.io/youthsquad/ipsum/</link>
+      <title>Becoming A Software Developer</title>
+      <link>https://youthsquad.network/software-development/</link>
       <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
       
-      <guid>http://mdhalim.github.io/youthsquad/ipsum/</guid>
-      <description>massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</description>
+      <guid>https://youthsquad.network/software-development/</guid>
+      <description>Want to become a Software Developer? Here’s how to get there “How do I become a developer?” — I’ve heard this question a lot, so I decided to write the best guide I can, using only free resources. If you’re an experienced software developer already, feel free to save yourself the time and do something else. Otherwise, read on :).
+ “The journey of a thousand miles begins with one step” — Lao Tzu</description>
+    </item>
+    
+    <item>
+      <title>Average Salaries Of Software Developer</title>
+      <link>https://youthsquad.network/average-salary-software-developer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://youthsquad.network/average-salary-software-developer/</guid>
+      <description>https://www.daxx.com/uploads/32746542692_c5b0e810d1_k.jpg
+Source
+Software Engineer Salaries by Country Apr 20, 2015
+The Highest Paying Countries for Software Developers in the World  USA – $92,240 Switzerland – $85,709 Norway – $70,776 Israel – $70,290 Denmark – $70,082 UK – $59,268 Germany – $57,345 Australia – $53,721 Sweden – $53,469 Netherlands – $51,488  This post was updated on February 9, 2018
+We&amp;rsquo;ve been publishing our salary overview for three years in a row now.</description>
+    </item>
+    
+    <item>
+      <title>How to choose which programming language to learn</title>
+      <link>https://youthsquad.network/average-salary-software-developer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://youthsquad.network/average-salary-software-developer/</guid>
+      <description>Source
+Which Programming Language Should I Learn First? Before choosing your first programming language, you should also check out this infographic on What Is Programming And What Do Programmers Do.
+So you want to learn programming. Maybe you have asked your developer friends for recommendations and get different answers. They explained with terms that you don&amp;rsquo;t understand (what is object-oriented?!). To help you to pick your first programming language to learn, here is an easy-to-understand infographic that recommends the best option, depending on your purpose and interest.</description>
     </item>
     
   </channel>
