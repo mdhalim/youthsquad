@@ -3,7 +3,6 @@ baseURL = "https://youthsquad.network"
 languageCode = "en-us"
 title = "Home for the 21st Century Youth"
 theme = "forty"
-publishDir = "docs"
 
 
 # Enter your tracking code to enable Google Analytics
