@@ -14,9 +14,8 @@ draft: false
 
 # Opportunities for Youth
 
-**We've noted down the best youth opportunities and challenges for June and July 2018. We've found some fabulous competitions, great events and chances to really make a difference. **
-
-Check the eligibility requirements and deadlines to be sure to you have the
+** We've noted down the best youth opportunities and challenges for June and July 2018. We've found some fabulous competitions, great events and chances to really make a difference. 
+** Check the eligibility requirements and deadlines to be sure to you have the
 best chance of winning!
 
 ### **Attend**
