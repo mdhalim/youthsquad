@@ -47,6 +47,34 @@ disqusShortname = ""
     # logo = "logo.png"
 
 
+    [[params.navigation.links]]
+      name = "Home"
+      url = "/"
+
+    [[params.navigation.links]]
+      name = "About Us"
+      url = "/about"
+
+    [[params.navigation.links]]
+      name = "Elements"
+      url = "elements.html"
+
+    # Add custom links here by uncommenting code below. To remove links just delete
+    # the [[params.navigation.links]] map associated with that link. Copy and paste
+    # code below if you need more links. Buttons work in the same way.
+    # [[params.navigation.links]]
+    #    name = "NameOfLink"
+    #    url = "UrlOfLink"
+
+    # Button Style 1
+    [[params.navigation.button1]]
+      name = "Community & Support"
+      url = "http://discuss.youthsquad.network"
+
+    # Button Style 2
+    [[params.navigation.button2]]
+      name = "Featured Opportunities"
+      url = "/categories/opportunities"
  
 
 
