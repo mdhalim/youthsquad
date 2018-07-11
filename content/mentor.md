@@ -17,7 +17,7 @@ draft: false
 
 
 
-                              <form name="mentors" method="post" action="#">
+                              <form name="mentors" method="post" netlify>
 									<div class="field half first">
 										<label for="name">Name</label>
 										<input type="text" name="name" id="name" />
