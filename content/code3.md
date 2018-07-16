@@ -1,8 +1,8 @@
 ---
 title: "How to choose which programming language to learn"
 description: "Ever wondered how much  does a software developer makes on an average, fret no more! Click below to learn more"
-slug: "average-salary-software-developer"
-image: code.jpg
+slug: "choose-language"
+image: language.jpg
 keywords: ""
 weight: 2
 categories: 

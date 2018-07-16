@@ -2,12 +2,12 @@
 title: "Average Salaries Of Software Developer"
 description: "Ever wondered how much  does a software developer makes on an average, fret no more! Click below to learn more"
 slug: "average-salary-software-developer"
-image: pic09.jpg
+image: salary.jpg
 keywords: ""
 categories: 
     - code
     - ""
-date: 2017-10-31T22:26:09-05:00
+date: 2016-10-31T22:26:09-05:00
 draft: false
 ---
 
