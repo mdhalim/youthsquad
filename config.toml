@@ -104,7 +104,7 @@ disqusShortname = "youthsquad"
       title = "Personal Growth"
       subtitle = "Articles and Advice on becoming a better you"
       image = "growth.jpg"
-      url = "blogs/growth"
+      url = "categories/growth"
     
     [[params.tiles.showcase]]
       title = "Learn to Code"
