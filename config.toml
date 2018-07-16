@@ -55,10 +55,6 @@ disqusShortname = "youthsquad"
       name = "About Us"
       url = "/about"
 
-    [[params.navigation.links]]
-      name = "Elements"
-      url = "elements.html"
-
     # Add custom links here by uncommenting code below. To remove links just delete
     # the [[params.navigation.links]] map associated with that link. Copy and paste
     # code below if you need more links. Buttons work in the same way.
@@ -85,7 +81,6 @@ disqusShortname = "youthsquad"
     title = "Welcome to The YouthSquad Network"
     subtitle = "Check out the multitude of advices that we have collected for you or click below to get started with our bot"
     buttonText = "Get Started"
-    image = "banner.jpg"
 
 
   # Tiles Section
@@ -94,7 +89,7 @@ disqusShortname = "youthsquad"
     # Display your showcases here.
 
     [[params.tiles.showcase]]
-      title = "The ChangeMakers"
+      title = "Get Inspired"
       subtitle = "Read inspiring stories of people beating the odds"
       image = "changemaker.jpg"
       url = "categories/get-inspired"
@@ -108,7 +103,7 @@ disqusShortname = "youthsquad"
     [[params.tiles.showcase]]
       title = "Personal Growth"
       subtitle = "Articles and Advice on becoming a better you"
-      image = "pic04.jpg"
+      image = "growth.jpg"
       url = "blogs/growth"
     
     [[params.tiles.showcase]]
@@ -119,7 +114,7 @@ disqusShortname = "youthsquad"
 
     [[params.tiles.showcase]]
       title = "Learn how to Design "
-      subtitle = "Are you a creative soul? Check out some resources on unleasing your inner creativity"
+      subtitle = "Are you a creative soul? Check out some resources on unleasing your inner creativity and making money"
       image = "pic02.jpg"
       url = "categories/design"
 
