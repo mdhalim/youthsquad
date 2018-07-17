@@ -31,26 +31,6 @@
                         {{ end }}
                     </div>
                 </section>
-                <section>
-                    <div class="contact-method">
-                        <span class="icon alt fa-phone"></span>
-                        {{ range .Site.Params.Contact.phone }}
-                        <h3>{{ .title }}</h3>
-                        <span>{{ .phone }}</span>
-                        {{ end }}
-                    </div>
-                </section>
-                <section>
-                    <div class="contact-method">
-                        <span class="icon alt fa-home"></span>
-                        {{ range .Site.Params.Contact.address }}
-                        <h3>{{ .title }}</h3>
-                        <span>{{ .street }}<br />
-                        {{ .city }}<br />
-                        {{ .country }}</span>
-                        {{ end }}
-                    </div>
-                </section>
             </section>
         </div>
-    </section>
+</section>
