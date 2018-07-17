@@ -123,7 +123,7 @@ disqusShortname = "youthsquad"
       title = "Entrepreneurship"
       subtitle = "Featured articles on becoming a digital entreprenuer"
       image = "pic05.jpg"
-      url = "blogs/Entrepreneurship"
+      url = "categories/entrepreneurship"
 
     
     # You can make more showcases by copy and pasting the code above
