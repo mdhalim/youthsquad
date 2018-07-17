@@ -1,15 +1,15 @@
 ---
-title: "Complete guide to starting your own online store for free?"
-description: "Learn how you can start making money online by dropshipping products from anywhere without having your own inventory"
-slug: "sell-your-products-online"
+title: "Guide to starting your online store for free"
+description: "Learn how you can start making money online by selling things online without spending a penny"
+slug: "start-your-ecommerce-store"
 image: dropship.png
 keywords: ""
-weight: 1
+weight: 2
 
 categories: 
     - entrepreneurship
     - ""
-date: 2017-11-31T22:26:09-05:00
+date: 2018-01-31T22:26:09-05:00
 draft: false
 ---
 
