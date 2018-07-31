@@ -14,7 +14,16 @@ draft: false
 
 
 
+“Make for yourself a Rav (a teacher); acquire for yourself a friend; and judge every person on the positive side” -Pirkei Avot
 
+As you all know, we have recently opened the applications for our Mentor Network. We are open to applications from experienced people from all walks of life who can join our Mentor Network and help groom youths from strife-torn region with knowledge and advice to become successful and achieve their dreams.
+
+As of today, we have 4 mentors in our network, all of who are successful software engineers hailing from the remotest part of India.
+
+We are looking for mentors with a background in Law, Policy, Environment, Medicine, Science, Design and of course entrepreneurs.
+
+What this entails:
+As a mentor, you would receive anonymous messages from teens looking for advice and help on your Facebook Messenger through our chatbot. Your responsibility as a mentor would be to provide the mentee with guidance and direct them to opportunities and resources to broaden their perspective and help them in improving their life.
 
 
                               <form name="mentors" method="post" netlify>
