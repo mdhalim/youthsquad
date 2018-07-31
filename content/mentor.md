@@ -12,8 +12,8 @@ draft: false
 ---                              
 
 
-
-
+                              <form name="mentors" method="post" netlify>
+                              <p>
 “Make for yourself a Rav (a teacher); acquire for yourself a friend; and judge every person on the positive side” -Pirkei Avot
 
 As you all know, we have recently opened the applications for our Mentor Network. We are open to applications from experienced people from all walks of life who can join our Mentor Network and help groom youths from strife-torn region with knowledge and advice to become successful and achieve their dreams.
@@ -25,10 +25,7 @@ We are looking for mentors with a background in Law, Policy, Environment, Medici
 What this entails:
 As a mentor, you would receive anonymous messages from teens looking for advice and help on your Facebook Messenger through our chatbot. Your responsibility as a mentor would be to provide the mentee with guidance and direct them to opportunities and resources to broaden their perspective and help them in improving their life.
 
--
-
-
-                              <form name="mentors" method="post" netlify>
+</p>
 									<div class="field half first">
 										<label for="name">Name</label>
 										<input type="text" name="name" id="name" />
